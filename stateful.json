@@ -1,0 +1,21 @@
+{
+    "version": "0.0.32-rc.3",
+    "architecture": {
+        "32bit": {
+            "url": "https://download.stateful.com/stateful-cli/0.0.32-rc.3/stateful_windows_i386.zip",
+            "bin": [
+                "stateful.exe"
+            ],
+            "hash": "1f5d77772b33cdfd625c37af5b26034fa4fff645e2cf609db994874f02d56e59"
+        },
+        "64bit": {
+            "url": "https://download.stateful.com/stateful-cli/0.0.32-rc.3/stateful_windows_amd64.zip",
+            "bin": [
+                "stateful.exe"
+            ],
+            "hash": "068bd63f22d64ee232ac08ed5d93d6b3e85363f60013b6a190ff9d0792d04fc0"
+        }
+    },
+    "homepage": "https://stateful.com",
+    "description": "CLI for Stateful - Optimize for flow, code better, be happy."
+}
