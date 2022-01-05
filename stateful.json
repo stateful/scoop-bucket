@@ -1,19 +1,19 @@
 {
-    "version": "0.0.36",
+    "version": "0.0.37",
     "architecture": {
         "32bit": {
-            "url": "https://download.stateful.com/stateful-cli/0.0.36/stateful_windows_i386.zip",
+            "url": "https://download.stateful.com/stateful-cli/0.0.37/stateful_windows_i386.zip",
             "bin": [
                 "stateful.exe"
             ],
-            "hash": "0ab24dc776d4908ddbac1a5ab16e696ffdceeb9f1303962974ff9691631ec0d4"
+            "hash": "2f380bb7e9c79f3cd4b6f14e4824c0e2cd33ec01533d130f91a8c10e83f76dc5"
         },
         "64bit": {
-            "url": "https://download.stateful.com/stateful-cli/0.0.36/stateful_windows_x86_64.zip",
+            "url": "https://download.stateful.com/stateful-cli/0.0.37/stateful_windows_x86_64.zip",
             "bin": [
                 "stateful.exe"
             ],
-            "hash": "7614ac8bc0f174d4e4cf3b348f0af8e13dc8ad023b7eaf24fa13b9301cba9839"
+            "hash": "30de33a564952f7ee24a99eb9c445f37ca75149e9aabcca580b5d5cc42e0b392"
         }
     },
     "homepage": "https://stateful.com",
