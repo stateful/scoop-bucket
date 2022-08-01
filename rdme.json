@@ -1,19 +1,19 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "architecture": {
         "32bit": {
-            "url": "https://download.stateful.com/stateful-cli/0.1.4/rdme_windows_i386.zip",
+            "url": "https://download.stateful.com/stateful-cli/0.1.5/rdme_windows_i386.zip",
             "bin": [
                 "rdme.exe"
             ],
-            "hash": "040dd6f2471632350857f2b4ca0fc3667fc1c9883b2050f5af01480b57ec929a"
+            "hash": "c6c74fa57e56f18344991a9e0c5277fd6dee146217648c36580898cd700e20b9"
         },
         "64bit": {
-            "url": "https://download.stateful.com/stateful-cli/0.1.4/rdme_windows_x86_64.zip",
+            "url": "https://download.stateful.com/stateful-cli/0.1.5/rdme_windows_x86_64.zip",
             "bin": [
                 "rdme.exe"
             ],
-            "hash": "b55e47378b08eed6506aea2437284bd7b0fd1c43a906ea2f0a0e39fb8a8c7f0f"
+            "hash": "aa2953999db50db18f86fcb3bbbc0d136d388c41c67118357791c431bfa1f34f"
         }
     },
     "homepage": "https://stateful.com",
