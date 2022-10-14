@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://download.stateful.com/runme/0.2.0/runme_windows_i386.zip",
+            "bin": [
+                "runme.exe"
+            ],
+            "hash": "6af76ec1d6f5445e91b05ccd92603b3ba825736d30ab761ec4d0cb1a5aba6c6c"
+        },
+        "64bit": {
+            "url": "https://download.stateful.com/runme/0.2.0/runme_windows_x86_64.zip",
+            "bin": [
+                "runme.exe"
+            ],
+            "hash": "853ed5f66326abd44dda4e03644415e467a791a680dc9c091fdb23d86044f9ef"
+        }
+    },
+    "homepage": "https://stateful.com",
+    "description": "Execute code snippets directly from Markdown files."
+}
