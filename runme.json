@@ -1,19 +1,19 @@
 {
-    "version": "0.2.4",
+    "version": "0.3.0",
     "architecture": {
         "32bit": {
-            "url": "https://download.stateful.com/runme/0.2.4/runme_windows_i386.zip",
+            "url": "https://download.stateful.com/runme/0.3.0/runme_windows_i386.zip",
             "bin": [
                 "runme.exe"
             ],
-            "hash": "59395714e2017b0bfce9261084092a976007d24034f94605967aa2c69368084f"
+            "hash": "5a5f52beea24968b182919cc5d5688845fb8a63df1ee55fea5228915925d52c3"
         },
         "64bit": {
-            "url": "https://download.stateful.com/runme/0.2.4/runme_windows_x86_64.zip",
+            "url": "https://download.stateful.com/runme/0.3.0/runme_windows_x86_64.zip",
             "bin": [
                 "runme.exe"
             ],
-            "hash": "9b0f459f2bd054e81c5742fc76e99533c797a2ad40881c9587b136adcea25702"
+            "hash": "d9e841a9f1ce7b24b5f3b709e5be984dd8c3055132d6cd449fcaa440308e3fd6"
         }
     },
     "homepage": "https://stateful.com",
