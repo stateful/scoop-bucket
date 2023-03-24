@@ -1,12 +1,12 @@
 {
-    "version": "0.7.0",
+    "version": "0.7.1",
     "architecture": {
         "64bit": {
-            "url": "https://download.stateful.com/runme/0.7.0/runme_windows_x86_64.zip",
+            "url": "https://download.stateful.com/runme/0.7.1/runme_windows_x86_64.zip",
             "bin": [
                 "runme.exe"
             ],
-            "hash": "c71ecee42a5fb55d18d11724e950501b21249a7ec4106bc528cd2a67bf10a149"
+            "hash": "f11d20711f0540bd80922a2fd24a448cb2109f0fb930c9ca776fdf3433fad03a"
         }
     },
     "homepage": "https://stateful.com",
