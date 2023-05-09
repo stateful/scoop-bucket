@@ -8,6 +8,6 @@ This instruction assumes you alread have Scoop installed. If not, please visit [
 
 ```
 scoop bucket add stateful https://github.com/stateful/scoop-bucket.git
-scoop install stateful/stateful
-stateful version
+scoop install stateful/runme
+runme
 ```
