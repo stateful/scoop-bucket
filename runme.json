@@ -1,12 +1,12 @@
 {
-    "version": "3.2.1",
+    "version": "3.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://download.stateful.com/runme/3.2.1/runme_windows_x86_64.zip",
+            "url": "https://download.stateful.com/runme/3.2.2/runme_windows_x86_64.zip",
             "bin": [
                 "runme.exe"
             ],
-            "hash": "6a184813024fbc35326447ab8a0b99ae7301aa1c07c168424b0b3bd6dd4b68ad"
+            "hash": "6a29a7a787d54bd31b642ead1950f5e402bff5f9632103e67c6b46b5a7bfc956"
         }
     },
     "homepage": "https://runme.dev",
