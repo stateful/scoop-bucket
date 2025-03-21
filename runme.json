@@ -1,19 +1,19 @@
 {
-    "version": "3.12.7",
+    "version": "3.12.8",
     "architecture": {
         "64bit": {
-            "url": "https://download.stateful.com/runme/3.12.7/runme_windows_x86_64.zip",
+            "url": "https://download.stateful.com/runme/3.12.8/runme_windows_x86_64.zip",
             "bin": [
                 "runme.exe"
             ],
-            "hash": "93b266aec614f3e30ba755337e9659210f2e6eb2bba43a39aeffe3614e049cfb"
+            "hash": "89f2bfb069cf4c048b6bccb1d697823ae783698600f938a5358a16421dd02457"
         },
         "arm64": {
-            "url": "https://download.stateful.com/runme/3.12.7/runme_windows_arm64.zip",
+            "url": "https://download.stateful.com/runme/3.12.8/runme_windows_arm64.zip",
             "bin": [
                 "runme.exe"
             ],
-            "hash": "dcc8bf99eb83bd50a284e454359ae2df3ccfcc97c1b9066c23b916a9019b304d"
+            "hash": "91753b5254edcdaf1852636d5624df918508d6e84372dc1c10e62e4e0dcbecb7"
         }
     },
     "homepage": "https://runme.dev",
